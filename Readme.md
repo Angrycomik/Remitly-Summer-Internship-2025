@@ -1,5 +1,7 @@
 # Remitly Home Exercise Summer Internship 2025
 
+<a href="https://codeclimate.com/github/Angrycomik/Remitly-Summer-Internship-2025/maintainability"><img src="https://api.codeclimate.com/v1/badges/6d14f4ad45eb0e12f41a/maintainability" /></a>
+
 ## Project Description
 This is a Spring Boot application made as a task for Remitly Summer Internship 2025. 
 It is designed to process and store SWIFT code data for banks.
